@@ -5,5 +5,18 @@
     "compileHotReLoad": false,
     "urlCheck": false
   },
-  "libVersion": "3.2.4"
+  "libVersion": "3.2.4",
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "",
+          "pathName": "pages/cate/cate",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        }
+      ]
+    }
+  }
 }
