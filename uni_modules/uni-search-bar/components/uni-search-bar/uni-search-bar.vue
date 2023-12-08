@@ -80,7 +80,7 @@
 			},
 			cancelText: {
 				type: String,
-				default: '取消'
+				default: ""
 			},
 			bgColor: {
 				type: String,
@@ -109,8 +109,8 @@
 		},
 		data() {
 			return {
-				show: false,
-				showSync: false,
+				show: true,
+				showSync: true,
 				searchVal: ''
 			}
 		},
@@ -236,6 +236,7 @@
 		position: relative;
 		padding: 10px;
 		// background-color: #fff;
+    background-color: #007AFF;
 	}
 
 	.uni-searchbar__box {

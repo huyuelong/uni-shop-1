@@ -11,6 +11,13 @@
       "list": [
         {
           "name": "",
+          "pathName": "subpkg/search/search",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
           "pathName": "pages/cate/cate",
           "query": "",
           "launchMode": "default",
